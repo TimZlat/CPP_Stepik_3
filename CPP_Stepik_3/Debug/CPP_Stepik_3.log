@@ -1,0 +1,10 @@
+﻿  CPP_Stepik_3.cpp
+D:\AAAA\CppProject\CPP_Stepik_3\CPP_Stepik_3\CPP_Stepik_3.cpp(18,13): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "float *"
+D:\AAAA\CppProject\CPP_Stepik_3\CPP_Stepik_3\CPP_Stepik_3.cpp(18,13): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "2" имеет тип "float *"
+D:\AAAA\CppProject\CPP_Stepik_3\CPP_Stepik_3\CPP_Stepik_3.cpp(18,13): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "3" имеет тип "float *"
+D:\AAAA\CppProject\CPP_Stepik_3\CPP_Stepik_3\CPP_Stepik_3.cpp(18,13): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "4" имеет тип "float *"
+D:\AAAA\CppProject\CPP_Stepik_3\CPP_Stepik_3\CPP_Stepik_3.cpp(18,13): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "5" имеет тип "float *"
+D:\AAAA\CppProject\CPP_Stepik_3\CPP_Stepik_3\CPP_Stepik_3.cpp(18,13): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "6" имеет тип "float *"
+D:\AAAA\CppProject\CPP_Stepik_3\CPP_Stepik_3\CPP_Stepik_3.cpp(20,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\AAAA\CppProject\CPP_Stepik_3\CPP_Stepik_3\CPP_Stepik_3.cpp(21,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  CPP_Stepik_3.vcxproj -> D:\AAAA\CppProject\CPP_Stepik_3\Debug\CPP_Stepik_3.exe

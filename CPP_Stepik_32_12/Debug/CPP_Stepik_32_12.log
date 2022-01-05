@@ -1,0 +1,10 @@
+﻿  CPP_Stepik_32_12.cpp
+D:\AAAA\CppProject\CPP_Stepik_3\CPP_Stepik_32_12\CPP_Stepik_32_12.cpp(20,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\AAAA\CppProject\CPP_Stepik_3\CPP_Stepik_32_12\CPP_Stepik_32_12.cpp(21,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\AAAA\CppProject\CPP_Stepik_3\CPP_Stepik_32_12\CPP_Stepik_32_12.cpp(34,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\AAAA\CppProject\CPP_Stepik_3\CPP_Stepik_32_12\CPP_Stepik_32_12.cpp(35,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\AAAA\CppProject\CPP_Stepik_3\CPP_Stepik_32_12\CPP_Stepik_32_12.cpp(48,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\AAAA\CppProject\CPP_Stepik_3\CPP_Stepik_32_12\CPP_Stepik_32_12.cpp(49,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\AAAA\CppProject\CPP_Stepik_3\CPP_Stepik_32_12\CPP_Stepik_32_12.cpp(62,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\AAAA\CppProject\CPP_Stepik_3\CPP_Stepik_32_12\CPP_Stepik_32_12.cpp(63,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  CPP_Stepik_32_12.vcxproj -> D:\AAAA\CppProject\CPP_Stepik_3\Debug\CPP_Stepik_32_12.exe
